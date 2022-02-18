@@ -3,22 +3,16 @@
 There are variuos agile methodologies
 
 ## Various Agile Methodologies
-1.Scrum  
-2.eXtreme Programming (XP)  
-3.Feature Driven Development (FDD)  
-4.Dynamic Systems Development Method (DSDM)  
-5.Adaptive Software Development (ASD)  
-6.Crystal  
-7.Lean Software Development (LSD).
 
 
 
-## Scrum 
+
+### Scrum 
 
 SCRUM is a Process in Agile Methodology which is a creative combination of an Iterative and Incremental Methods; 
 it is prescriptive in nature and has well-defined Roles
 
-## eXtreme Programming (XP)
+### eXtreme Programming (XP)
 This is a small frequent delivery.The team has extream autonmy and slef organising and follows the test driven development.
 Refractoring of the code is done on a continuous basis .
 set of Practices that take Programming to the Extreme, i.e. just enough, just-in-time with minimalist approach; relies heavily on people
